@@ -1,0 +1,13 @@
+export const EMAIL_CHANGE = 'email_change';
+export const PASSWORD_CHANGE = 'password_change';
+export const USER_LOGIN_SUCCESS = 'user_login_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const NAME_CHANGE = 'name_change';
+export const SIGNUP_USER = 'SIGNUP_USER';
+export const TASK_CREATE = 'task_create';
+export const TASK_FETCH_SUCCESS = 'task_fetch_success';
+export const TASK_SAVE = 'task_save';
+export const ADD_CATEGORY = 'add_category';
+export const LOADING_OFF = 'loading_off';
+export const CATEGORY_FETCH_SUCCESS = 'category_fetch_success';
